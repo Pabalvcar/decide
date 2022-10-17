@@ -12,7 +12,7 @@ from locust import (
 
 
 HOST = "http://localhost:8000"
-VOTING = 1
+VOTING = 6
 
 
 class DefVisualizer(TaskSet):
